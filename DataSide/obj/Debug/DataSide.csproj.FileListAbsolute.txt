@@ -1,0 +1,12 @@
+C:\Users\Tomi\source\repos\DataSide\bin\Debug\DataSide.dll
+C:\Users\Tomi\source\repos\DataSide\bin\Debug\DataSide.pdb
+C:\Users\Tomi\source\repos\DataSide\obj\Debug\DataSide.csprojAssemblyReference.cache
+C:\Users\Tomi\source\repos\DataSide\obj\Debug\DataSide.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\DataSide\obj\Debug\DataSide.dll
+C:\Users\Tomi\source\repos\DataSide\obj\Debug\DataSide.pdb
+C:\Users\Tomi\source\repos\Lexmark_Tamas_Cser\DataSide\bin\Debug\DataSide.dll
+C:\Users\Tomi\source\repos\Lexmark_Tamas_Cser\DataSide\bin\Debug\DataSide.pdb
+C:\Users\Tomi\source\repos\Lexmark_Tamas_Cser\DataSide\obj\Debug\DataSide.csprojAssemblyReference.cache
+C:\Users\Tomi\source\repos\Lexmark_Tamas_Cser\DataSide\obj\Debug\DataSide.csproj.CoreCompileInputs.cache
+C:\Users\Tomi\source\repos\Lexmark_Tamas_Cser\DataSide\obj\Debug\DataSide.dll
+C:\Users\Tomi\source\repos\Lexmark_Tamas_Cser\DataSide\obj\Debug\DataSide.pdb
